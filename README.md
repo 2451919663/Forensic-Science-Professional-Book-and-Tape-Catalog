@@ -1,4 +1,4 @@
-##使用FreePic2Pdf制作目录教程
+## 使用FreePic2Pdf制作目录教程
 1. 首先获取每个章节对应的页数
 	- 例如去豆瓣、京东等网上找![](assets/images/image.png)
 	- 找不到如果是可直接复制的pdf那就直接复制目录和页码
