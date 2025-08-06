@@ -1,5 +1,5 @@
 1. 首先获取每个章节对应的页数
-	- 例如去豆瓣、京东等网上找![assets/images/image.png]
+	- 例如去豆瓣、京东等网上找![](assets/images/image%204.png)
 	- 找不到如果是可直接复制的pdf那就直接复制目录和页码
 	- 以上都不行也可以用UmiOCR的`批量文档`功能，选定目录那几页批量识别目录页![[assets/images/umi识别目录页.gif]]，此时获取的文本还不能直接使用。
 	- 通过AI帮我们整理格式，先手动做一段示例，如图的格式，![[assets/images/image 1.png]]
